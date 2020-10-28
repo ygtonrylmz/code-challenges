@@ -1,0 +1,13 @@
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\obj\Debug\netcoreapp3.1\RunningSumOfArray.csprojAssemblyReference.cache
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\obj\Debug\netcoreapp3.1\RunningSumOfArray.AssemblyInfoInputs.cache
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\obj\Debug\netcoreapp3.1\RunningSumOfArray.AssemblyInfo.cs
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\obj\Debug\netcoreapp3.1\RunningSumOfArray.csproj.CoreCompileInputs.cache
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\bin\Debug\netcoreapp3.1\RunningSumOfArray.exe
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\bin\Debug\netcoreapp3.1\RunningSumOfArray.deps.json
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\bin\Debug\netcoreapp3.1\RunningSumOfArray.runtimeconfig.json
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\bin\Debug\netcoreapp3.1\RunningSumOfArray.runtimeconfig.dev.json
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\bin\Debug\netcoreapp3.1\RunningSumOfArray.dll
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\bin\Debug\netcoreapp3.1\RunningSumOfArray.pdb
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\obj\Debug\netcoreapp3.1\RunningSumOfArray.dll
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\obj\Debug\netcoreapp3.1\RunningSumOfArray.pdb
+D:\CodeChallenges\RunningSumOfArray\RunningSumOfArray\obj\Debug\netcoreapp3.1\RunningSumOfArray.genruntimeconfig.cache

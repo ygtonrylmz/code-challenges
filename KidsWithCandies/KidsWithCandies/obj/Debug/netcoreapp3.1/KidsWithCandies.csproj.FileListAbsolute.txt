@@ -1,0 +1,12 @@
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\bin\Debug\netcoreapp3.1\KidsWithCandies.exe
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\bin\Debug\netcoreapp3.1\KidsWithCandies.deps.json
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\bin\Debug\netcoreapp3.1\KidsWithCandies.runtimeconfig.json
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\bin\Debug\netcoreapp3.1\KidsWithCandies.runtimeconfig.dev.json
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\bin\Debug\netcoreapp3.1\KidsWithCandies.dll
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\bin\Debug\netcoreapp3.1\KidsWithCandies.pdb
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\obj\Debug\netcoreapp3.1\KidsWithCandies.AssemblyInfoInputs.cache
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\obj\Debug\netcoreapp3.1\KidsWithCandies.AssemblyInfo.cs
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\obj\Debug\netcoreapp3.1\KidsWithCandies.csproj.CoreCompileInputs.cache
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\obj\Debug\netcoreapp3.1\KidsWithCandies.dll
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\obj\Debug\netcoreapp3.1\KidsWithCandies.pdb
+D:\CodeChallenges\KidsWithCandies\KidsWithCandies\obj\Debug\netcoreapp3.1\KidsWithCandies.genruntimeconfig.cache

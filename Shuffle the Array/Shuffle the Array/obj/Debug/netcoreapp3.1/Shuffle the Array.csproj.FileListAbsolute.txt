@@ -1,0 +1,13 @@
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\obj\Debug\netcoreapp3.1\Shuffle the Array.csprojAssemblyReference.cache
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\obj\Debug\netcoreapp3.1\Shuffle the Array.AssemblyInfoInputs.cache
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\obj\Debug\netcoreapp3.1\Shuffle the Array.AssemblyInfo.cs
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\obj\Debug\netcoreapp3.1\Shuffle the Array.csproj.CoreCompileInputs.cache
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\bin\Debug\netcoreapp3.1\Shuffle the Array.exe
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\bin\Debug\netcoreapp3.1\Shuffle the Array.deps.json
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\bin\Debug\netcoreapp3.1\Shuffle the Array.runtimeconfig.json
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\bin\Debug\netcoreapp3.1\Shuffle the Array.runtimeconfig.dev.json
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\bin\Debug\netcoreapp3.1\Shuffle the Array.dll
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\bin\Debug\netcoreapp3.1\Shuffle the Array.pdb
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\obj\Debug\netcoreapp3.1\Shuffle the Array.dll
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\obj\Debug\netcoreapp3.1\Shuffle the Array.pdb
+D:\CodeChallenges\Shuffle the Array\Shuffle the Array\obj\Debug\netcoreapp3.1\Shuffle the Array.genruntimeconfig.cache

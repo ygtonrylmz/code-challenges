@@ -1,0 +1,12 @@
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\bin\Debug\netcoreapp3.1\DefangingIPAddress.exe
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\bin\Debug\netcoreapp3.1\DefangingIPAddress.deps.json
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\bin\Debug\netcoreapp3.1\DefangingIPAddress.runtimeconfig.json
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\bin\Debug\netcoreapp3.1\DefangingIPAddress.runtimeconfig.dev.json
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\bin\Debug\netcoreapp3.1\DefangingIPAddress.dll
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\bin\Debug\netcoreapp3.1\DefangingIPAddress.pdb
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\obj\Debug\netcoreapp3.1\DefangingIPAddress.AssemblyInfoInputs.cache
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\obj\Debug\netcoreapp3.1\DefangingIPAddress.AssemblyInfo.cs
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\obj\Debug\netcoreapp3.1\DefangingIPAddress.csproj.CoreCompileInputs.cache
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\obj\Debug\netcoreapp3.1\DefangingIPAddress.dll
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\obj\Debug\netcoreapp3.1\DefangingIPAddress.pdb
+D:\CodeChallenges\DefangingIPAddress\DefangingIPAddress\obj\Debug\netcoreapp3.1\DefangingIPAddress.genruntimeconfig.cache

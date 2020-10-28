@@ -1,0 +1,12 @@
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\bin\Debug\netcoreapp3.1\MinWindowSubstring.exe
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\bin\Debug\netcoreapp3.1\MinWindowSubstring.deps.json
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\bin\Debug\netcoreapp3.1\MinWindowSubstring.runtimeconfig.json
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\bin\Debug\netcoreapp3.1\MinWindowSubstring.runtimeconfig.dev.json
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\bin\Debug\netcoreapp3.1\MinWindowSubstring.dll
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\bin\Debug\netcoreapp3.1\MinWindowSubstring.pdb
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\obj\Debug\netcoreapp3.1\MinWindowSubstring.AssemblyInfoInputs.cache
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\obj\Debug\netcoreapp3.1\MinWindowSubstring.AssemblyInfo.cs
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\obj\Debug\netcoreapp3.1\MinWindowSubstring.csproj.CoreCompileInputs.cache
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\obj\Debug\netcoreapp3.1\MinWindowSubstring.dll
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\obj\Debug\netcoreapp3.1\MinWindowSubstring.pdb
+D:\CodeChallenges\MinWindowSubstring\MinWindowSubstring\obj\Debug\netcoreapp3.1\MinWindowSubstring.genruntimeconfig.cache
