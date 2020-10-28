@@ -1,0 +1,13 @@
+D:\CodeChallenges\TreeConstructor\TreeConstructor\bin\Debug\netcoreapp3.1\TreeConstructor.exe
+D:\CodeChallenges\TreeConstructor\TreeConstructor\bin\Debug\netcoreapp3.1\TreeConstructor.deps.json
+D:\CodeChallenges\TreeConstructor\TreeConstructor\bin\Debug\netcoreapp3.1\TreeConstructor.runtimeconfig.json
+D:\CodeChallenges\TreeConstructor\TreeConstructor\bin\Debug\netcoreapp3.1\TreeConstructor.runtimeconfig.dev.json
+D:\CodeChallenges\TreeConstructor\TreeConstructor\bin\Debug\netcoreapp3.1\TreeConstructor.dll
+D:\CodeChallenges\TreeConstructor\TreeConstructor\bin\Debug\netcoreapp3.1\TreeConstructor.pdb
+D:\CodeChallenges\TreeConstructor\TreeConstructor\obj\Debug\netcoreapp3.1\TreeConstructor.csprojAssemblyReference.cache
+D:\CodeChallenges\TreeConstructor\TreeConstructor\obj\Debug\netcoreapp3.1\TreeConstructor.AssemblyInfoInputs.cache
+D:\CodeChallenges\TreeConstructor\TreeConstructor\obj\Debug\netcoreapp3.1\TreeConstructor.AssemblyInfo.cs
+D:\CodeChallenges\TreeConstructor\TreeConstructor\obj\Debug\netcoreapp3.1\TreeConstructor.csproj.CoreCompileInputs.cache
+D:\CodeChallenges\TreeConstructor\TreeConstructor\obj\Debug\netcoreapp3.1\TreeConstructor.dll
+D:\CodeChallenges\TreeConstructor\TreeConstructor\obj\Debug\netcoreapp3.1\TreeConstructor.pdb
+D:\CodeChallenges\TreeConstructor\TreeConstructor\obj\Debug\netcoreapp3.1\TreeConstructor.genruntimeconfig.cache
