@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockValidString", "SherlockValidString\SherlockValidString.csproj", "{9B4FB1B8-DC35-4277-9723-0F15A738AABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4FB1B8-DC35-4277-9723-0F15A738AABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4FB1B8-DC35-4277-9723-0F15A738AABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4FB1B8-DC35-4277-9723-0F15A738AABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4FB1B8-DC35-4277-9723-0F15A738AABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF25B237-2C8B-4261-85ED-1EB403929B11}
+	EndGlobalSection
+EndGlobal
