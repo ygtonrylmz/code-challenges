@@ -61,35 +61,26 @@ namespace ClimbingTheLeaderboard
 
         static void Main(string[] args)
         {
+            // Brutte Force
             //var result = climbingLeaderboard(new List<int> { 100, 90, 90, 80 }, new List<int> { 70, 80, 105 });
             //Console.WriteLine(String.Join("\n", result));
 
+            // Binary Search
             int n = Convert.ToInt32(Console.ReadLine());
-            string[] rankedTemp = Console.ReadLine().Split(' ');
-            int[] rankedList = Array.ConvertAll(rankedTemp, int.Parse);
+            List<int> rankedList = Console.ReadLine().Split(' ').Distinct().Select(x => int.Parse(x)).ToList();
             int m = Convert.ToInt32(Console.ReadLine());
-            string[] playerTemp = Console.ReadLine().Split(' ');
-            int[] playerList = Array.ConvertAll(playerTemp, int.Parse);
+            List<int> playerList = Console.ReadLine().Split(' ').Select(x => int.Parse(x)).ToList();
 
-            List<int> score = new List<int>();
-
-            score.Add(rankedList[0]);
-
-            for (int i = 1; i < n; i++)
-            {
-                score.Add(rankedList[i]);
-            }
-            score = score.Distinct().ToList();
-            score.Reverse();
+            rankedList.Reverse();
 
             int bs;
             for (int i = 0; i < m; i++)
             {
-                bs = score.BinarySearch(playerList[i]);
+                bs = rankedList.BinarySearch(playerList[i]);
                 if (bs >= 0)
-                    Console.WriteLine(score.Count - bs);
+                    Console.WriteLine(rankedList.Count - bs);
                 else
-                    Console.WriteLine(score.Count + 2 + bs);
+                    Console.WriteLine(rankedList.Count + 2 + bs);
             }
         }
     }
