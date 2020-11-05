@@ -9,11 +9,11 @@ namespace FoundX
 
         public static int GetX(string text)
         {
-            var splittedBlank = text.Split(' '); // 3x2 , + , 20 , = , 392
+            var splittedBlank = text.Split(' ');
             string ops = "";
             var containsX = splittedBlank.First(w => w.Contains('x'));
             splittedBlank = splittedBlank.Where(w => w != containsX).ToArray();
-            var result = 0;
+
             var isReversedOps = true;
             if (splittedBlank.Last() == "=" || splittedBlank.First() == "=") isReversedOps = false;
             splittedBlank = splittedBlank.Where(w => w != "=").ToArray();
@@ -33,9 +33,12 @@ namespace FoundX
 
             var calculationResult = GetResult(nums, ops, isReversedOps);
 
-            var xPosition = containsX.IndexOf("x");
+            var result = 0;
             if (containsX.Length > 1)
+            {
+                var xPosition = containsX.IndexOf("x");
                 result = int.Parse(calculationResult.ToString().ElementAtOrDefault(xPosition).ToString());
+            }
             else
                 result = calculationResult;
             return result;
@@ -61,7 +64,7 @@ namespace FoundX
         }
         static void Main(string[] args)
         {
-            string text = "17 * x42 = 5814";
+            string text = "1x * 342 = 5814";
             var result = GetX(text);
             Console.WriteLine($"x = {result}");
         }
